@@ -1,7 +1,7 @@
 # DeepLearning_Facial_Recognition
 
 
-Please, refer to the PDF file for detailed explanations of the project.
+:warning: Please, refer to the PDF file for detailed explanations of the project.
 **[View PDF](BOUGHEMZA_Hafsa_CASSISI_Ryan_Rapport_Reconnaissance_faciale.pdf)**
 
 ### :mortar_board: Course Overview
