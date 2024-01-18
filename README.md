@@ -14,6 +14,10 @@ This unit serves as an introduction to deep learning using Keras. Topics covered
 **Facial Recognition** for faces in a personal database, using a **Convolutional Neural Network (CNN)**. 
 Subsequently, an evaluation of its effectiveness will be conducted by **comparing** it with **alternative classifiers like KNN, SVM**, and similar methods.
 
+
+
+![Results Image](./results.png)
+
 ##### Packages
 - cv2
 - keras
